@@ -10,7 +10,7 @@ logging.basicConfig(
 
 class DBHelper:
     def __init__(self):
-        self.con = connector.connect(host="localhost",user ="root",password="archit",database="pythontest")
+        self.con = connector.connect(host="localhost",user ="your_username",password="your_pass",database="pythontest")
         query = 'create table if not exists user(userId int primary key,userName varchar(200), phone varchar(12))'
         cur = self.con.cursor()
         cur.execute(query)
