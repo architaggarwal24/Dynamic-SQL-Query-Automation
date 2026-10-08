@@ -1,0 +1,539 @@
+2025-04-29 00:51:36,701:INFO:User table creation checked/created successfully.
+2025-04-29 00:51:36,703:INFO:Fetched all users successfully
+2025-04-29 00:53:03,038:INFO:User table creation checked/created successfully.
+2025-04-29 00:59:23,324:INFO:User table creation checked/created successfully.
+2025-04-29 00:59:23,647:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 00:59:23,647:INFO:[33mPress CTRL+C to quit[0m
+2025-04-29 00:59:23,650:INFO: * Restarting with stat
+2025-04-29 00:59:24,166:INFO:User table creation checked/created successfully.
+2025-04-29 00:59:24,190:WARNING: * Debugger is active!
+2025-04-29 00:59:24,192:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:01:34,095:ERROR:127.0.0.1 - - [29/Apr/2025 01:01:34] code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+2025-04-29 01:01:34,095:INFO:127.0.0.1 - - [29/Apr/2025 01:01:34] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Þá\x1ey.VÉé\x82Ö\x0d<Â\x1dc}Ãé­(åN¦ÙóK·(Õ\x9a¹* ½ÕæÚWQÝ\x18#Æ\x1b0ó¶ìP³TIù<ØUë¸:ks¼>T0\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s[0m" 400 -
+2025-04-29 01:01:34,097:ERROR:127.0.0.1 - - [29/Apr/2025 01:01:34] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03°\x84')
+2025-04-29 01:01:34,097:INFO:127.0.0.1 - - [29/Apr/2025 01:01:34] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03°\x84\x1f,[0m" 400 -
+2025-04-29 01:01:37,645:ERROR:127.0.0.1 - - [29/Apr/2025 01:01:37] code 400, message Bad request version ('\x9bUE\x01Ã\x03\x8c\x02aPÅF')
+2025-04-29 01:01:37,645:INFO:127.0.0.1 - - [29/Apr/2025 01:01:37] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Ò8!Ü¯`UÔô\x07\x1f\x9b[D«ú\x85°l\x16\x0d\x87\x0d µ\x02^0ÑyÎ· ï·%\x19£Bäy\x9bÒë²åJN\x1b÷ÿ¾6wR[6ûz\x8eÓ\x0f\x99EÍ\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06súú\x00\x00\x00\x0b\x00\x02\x01\x00ÿ\x01\x00\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00+\x00\x07\x06ZZ\x03\x04\x03\x03\x00-\x00\x02\x01\x01\x003\x04ï\x04í\x1a\x1a\x00\x01\x00\x11ì\x04Àæj\x92\x9frÌ\x0dè@\x05aa©éKV£\x84\x7fè/¸Ù¿\x0dJZÆ\x15i(G\x93ù\x07NàÐÉ\x87&\x8aÖgeÁ\x08{i\x08\\1\x09\x9fî: \x84ã{Ág4IU\x01^\x03ºÅðA\x02±>I£oÝÃ\x00\x18\x10\x1fÌ»\x8fÁX\x15+\x83¢ðd\x92Î¬µ\x89\x001\x0f<\x9bM#\x03&hÎ\x97úvÍ2\x0f?\\Åb$X¥©¦OB%\x89@'\x06\x90\x15¡R¢Í*£Ïéaæ\x09+)\x13\x1c\x81k®Üu9¡p\x97\x8fz\x13§Ë3\x8b¡½K\x92ªj(Å¦\x95·ÊÉnE°q¹ê2ãçÃàø\x8bª\x0b\x11(\x04°6Ö\x80f°\x93\x91¨\x01óÖ%q\x94©ÚZ¥ù\x12\x97-\x14Sàì\x1c'\x076])\x1a\x1ffÌ\x1c\x14\x18¥\x07e¨Çsg(ÇB\x94\x0dË\x92\x7fß\x89pgT\x16£¤2h\x14=\x91\x0b\x11á«).\x0b«]\x06\x02²Ë]ß\x96G\x94¼"\x86\x16H\x910\x16. \x06\x94\x11}Ñ1bZ\x95\\\x9bÙGæ¬\x9cØ¡\x7fçKlE%töu\x1bA0|&\x91M§lÃ\x982\x84\x07|\x0b$Ë5è\x15|'\x00·\x0fp.I|§(É] `\x8cóó®Z\x80\x8d$Ä\x85>\x1c\x9bUE\x01Ã\x03\x8c\x02aPÅF[0m" 400 -
+2025-04-29 01:01:37,648:ERROR:127.0.0.1 - - [29/Apr/2025 01:01:37] code 400, message Bad request version ('çÝ\x1b²}\x15½\x19ND®\x98iLTE\x8c<')
+2025-04-29 01:01:37,648:INFO:127.0.0.1 - - [29/Apr/2025 01:01:37] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03¢\x06\x17yLS<Ô?\x0cµvû+\x0ex\x8f¨·ZÐ\x16\x12m¿´æ+\x1dA\x1bÆ çÝ\x1b²}\x15½\x19ND®\x98iLTE\x8c<[0m" 400 -
+2025-04-29 01:01:48,990:ERROR:127.0.0.1 - - [29/Apr/2025 01:01:48] code 400, message Bad request version ('ÂT|}â>\\¹«ÕÄ\x00')
+2025-04-29 01:01:48,990:INFO:127.0.0.1 - - [29/Apr/2025 01:01:48] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x030FïÇO\x18@s÷V \x03L´.4\x1aÙ,ÞÈ «1ËU`T,t\x03Ú \x97\x05·0óH!ÄH\x80»~\x87:íwF®\x91ÿ\x0dÂT|}â>\\¹«ÕÄ\x00 [0m" 400 -
+2025-04-29 01:01:49,250:ERROR:127.0.0.1 - - [29/Apr/2025 01:01:49] code 400, message Bad request version ('ªª\x00\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00\x17\x00\x00\x00')
+2025-04-29 01:01:49,250:INFO:127.0.0.1 - - [29/Apr/2025 01:01:49] "[31m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03ÃVCË¦¤¿ø-\x16$=úkkºÞ\x1eDùI\x88#VÞ\x1d¶42\x0d\\k ÂÉ\x90n\x91\x90\x0dâ\\(\x14 +\x9e¼¹ á´`@9)æímå{1&ö\x85\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85ªª\x00\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00\x17\x00\x00\x00[0m" 400 -
+2025-04-29 01:01:49,301:ERROR:127.0.0.1 - - [29/Apr/2025 01:01:49] code 400, message Bad request version ("localhost\x003\x04ï\x04í\x8a\x8a\x00\x01\x00\x11ì\x04À)Á§ï'F\x88â\x19ºkiù\x1b\x87_%hÑÁ<`×B\x874\x96ÞI\x1b°\x96\x02ý\x00]")
+2025-04-29 01:01:49,302:INFO:127.0.0.1 - - [29/Apr/2025 01:01:49] "[31m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03\x1cÈô\x05« L\x95\x04bvw&­\x9b.Ykv§*d§,Sà¨ ¤\x11¸\x0b \x1e¼\x00ì\x91\x1fÔ$V\x96EÐã88\x13Å\x8eëÚI©³3\x85ó&V¯\x9a\x8bU\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E::\x00\x00\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x003\x04ï\x04í\x8a\x8a\x00\x01\x00\x11ì\x04À)Á§ï'F\x88â\x19ºkiù\x1b\x87_%hÑÁ<`×B\x874\x96ÞI\x1b°\x96\x02ý\x00][0m" 400 -
+2025-04-29 01:01:49,559:ERROR:127.0.0.1 - - [29/Apr/2025 01:01:49] code 400, message Bad request version ('\x97$Íü½æöÉô*,\x98')
+2025-04-29 01:01:49,560:INFO:127.0.0.1 - - [29/Apr/2025 01:01:49] "[31m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03\x0e§v\x19)Ô7Ln(\x0evß\x06vÅq ÜÒ7ï\x9d\x0e\x9b³¡\x86Nê\x9bc \x8b\x9aZªR¿\x0d\x97$Íü½æöÉô*,\x98[0m" 400 -
+2025-04-29 01:02:34,463:INFO:User table creation checked/created successfully.
+2025-04-29 01:02:34,506:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 01:02:34,506:INFO:[33mPress CTRL+C to quit[0m
+2025-04-29 01:02:34,508:INFO: * Restarting with stat
+2025-04-29 01:02:35,045:INFO:User table creation checked/created successfully.
+2025-04-29 01:02:35,067:WARNING: * Debugger is active!
+2025-04-29 01:02:35,068:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:03:00,499:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2025-04-29 01:03:00,594:INFO: * Restarting with stat
+2025-04-29 01:03:01,196:INFO:User table creation checked/created successfully.
+2025-04-29 01:03:01,217:WARNING: * Debugger is active!
+2025-04-29 01:03:01,219:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:03:08,368:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2025-04-29 01:03:08,446:INFO: * Restarting with stat
+2025-04-29 01:03:37,101:INFO:User table creation checked/created successfully.
+2025-04-29 01:03:37,137:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 01:03:37,137:INFO:[33mPress CTRL+C to quit[0m
+2025-04-29 01:03:37,139:INFO: * Restarting with stat
+2025-04-29 01:03:37,677:INFO:User table creation checked/created successfully.
+2025-04-29 01:03:37,705:WARNING: * Debugger is active!
+2025-04-29 01:03:37,707:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:03:44,340:ERROR:127.0.0.1 - - [29/Apr/2025 01:03:44] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+2025-04-29 01:03:44,340:INFO:127.0.0.1 - - [29/Apr/2025 01:03:44] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03\x02µÁbXD0ãZ"\x7fFÜ;Ó\x04¬°y\x0e"\x93O?7I#\x98ëý\x84K Ivå;ùÛ\x03ÍÕÓ\x14I\x905ÅñEeð¬\x07õ\x97®þ\x7f5ËÄÂ\x08¸\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ÚÚ\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01DÍ\x00\x05\x00\x03\x02h2\x00\x0b\x00\x02\x01\x00\x00[0m" 400 -
+2025-04-29 01:03:44,599:ERROR:127.0.0.1 - - [29/Apr/2025 01:03:44] code 400, message Bad request version ("\x079w\x8f²B\x89ÕF\x16'I]")
+2025-04-29 01:03:44,599:INFO:127.0.0.1 - - [29/Apr/2025 01:03:44] "[31m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03î\x84}Y@\x86Ä\x1d¦Â\x99¡(Wù8&|·\x88|Ý\x8cØÌ_@\x8c>(´\x1f \x079w\x8f²B\x89ÕF\x16'I][0m" 400 -
+2025-04-29 01:03:44,650:ERROR:127.0.0.1 - - [29/Apr/2025 01:03:44] code 400, message Bad request version (">\x80\x03`±t|qL\x9b'")
+2025-04-29 01:03:44,650:INFO:127.0.0.1 - - [29/Apr/2025 01:03:44] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03Ilx³¹U,\x7f\x9bß\x92\x84Íòa1§%±¹\x97\x03lZzê°\x0fÂ\x19\x98ª Ú@zðÀÇ\x96M\x92½y.T¶0èµðïÁéÞ¨^5µÍ·\x91ÍÓ\x92\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ZZ\x00\x00\x00\x17\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x003\x04ï\x04í\x9a\x9a\x00\x01\x00\x11ì\x04Àbãd\x8dûµÝéEâ\x8aEiL«Ò8¬\x03Èq·&\x14\\\x14/ß`S\x862\x10<q-ü»±[461¥+ÈÆ¤8ÛÏÔ ±Ù;f£ù® \x1cb½2\x0b/\x86\x0f_òZ\x0b\x855\x1cB:X)\x8e7X\\ØzÅÇá\x13à1\x1cP\x14*h\x1a\x02Ñ&\x98ñÑ\x8a\x94²\x0fzU®d$\x11QäÄ\x83\x98y¢\x91PbC¶o\x8b)ç(\x18EèRòtÏû©\x19ñ\x93\x0e\x1cfx(\x07\x94têoY²O\x16ò\x83_\x10\x1a©\x95\x10Zrh­\x16Y\x14Á\x19MS\x18C3¼\x12¡bxµ\x05\x06±<\x99Ühù\x08\x9cæC>\x1bjt/ðT¸§\x8d¡\x85\x8fD\x1b\x85>\x80\x03`±t|qL\x9b'[0m" 400 -
+2025-04-29 01:03:44,908:ERROR:127.0.0.1 - - [29/Apr/2025 01:03:44] code 400, message Bad request version ('òõ\x03Î\x86±\x8c£ºüÀ«')
+2025-04-29 01:03:44,909:INFO:127.0.0.1 - - [29/Apr/2025 01:03:44] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03)fI\x06£HÛspÖÌFþ\x9ax\x8cæ o&FeÏå\x84tQ\x03S\x08\x89\x1c \x93çtp-b\x8avØj\x97º_>ií\x9f\x8dZ"`å½]S#×§¶üAX\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e::\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1DÍ\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00#\x00\x00þ\x0d\x00Ú\x00\x00\x01\x00\x01þ\x00 ÉÁW?y\x89\x10É\x8b\x9c\x86ñâ\x040\\Ç \x06\x07Î\x9a<WÖàw ·ÖÌ\x18\x00°½»\x01R<þ¹zÚòcß}ø×\x83xÜÙö\x88KÑo\x0d\x85Ø+\x13®°\x89*\x8e\x1f\x08þ\x83\x0còõ\x03Î\x86±\x8c£ºüÀ«[0m" 400 -
+2025-04-29 01:03:45,698:ERROR:127.0.0.1 - - [29/Apr/2025 01:03:45] code 400, message Bad request version ('\x83')
+2025-04-29 01:03:45,699:INFO:127.0.0.1 - - [29/Apr/2025 01:03:45] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03Æµ\x11\x87\x9chWÌ§£ú^!âUEg@S`Xµ²\x13¦¾AÚG\x11°Ù \x0c\x97·µ¸¶0|6TêrDÈºóI$8\x1a\x87\x11\x02W:\x84¶È\x18xV*\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥\x8a\x8a\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x12\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04íêê\x00\x01\x00\x11ì\x04Àô\x93Æ5´@|U\x0c¨\x07Y\x12e\x9c]À¨\x9es¬3¸\x9bÜÕ\x12\x87Ë§<ë2çQ¤\x0cÒ«\x0cªc¤\x8b\x0bîðk¸4m´e±Ã\x13=ñFK;É\x82ZÄ¡JËO\x09AHÎÂ6e"\x8c­\x8b@hÊmçÊ\x1c\x83[0m" 400 -
+2025-04-29 01:03:45,961:ERROR:127.0.0.1 - - [29/Apr/2025 01:03:45] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03\x93\x10aèAÐ')
+2025-04-29 01:03:45,961:INFO:127.0.0.1 - - [29/Apr/2025 01:03:45] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03\x93\x10aèAÐ RÏ\x88ãé\x99[0m" 400 -
+2025-04-29 01:03:46,011:ERROR:127.0.0.1 - - [29/Apr/2025 01:03:46] code 400, message Bad request version ('tg')
+2025-04-29 01:03:46,011:INFO:127.0.0.1 - - [29/Apr/2025 01:03:46] "[31m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03N\x1b©J\x8a\x17ÉY\x86ëý¸. éáìj\x13ò\x1f\x1b?ÌT\x90\x11ÓÕ6Þ\x8a ¨·V±vG\x0f\x19²¨²¡zè6\\Gí~Ä\x8fç\x1cZ~\x9b¶\x8a1P2]\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06EJJ\x00\x00þ\x0d\x00º\x00\x00\x01\x00\x01=\x00 C\x8dÊèu\x83\x0dU\x8c\x190­E\x1b{!ï]àaþþ\x1c\x96È[{¯\x1ab\x06c\x00\x90\x06&ý/.ÙÛ\x17 tg[0m" 400 -
+2025-04-29 01:03:46,265:ERROR:127.0.0.1 - - [29/Apr/2025 01:03:46] code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ZZ\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00#\x00\x00\x003\x04ï\x04í')
+2025-04-29 01:03:46,265:INFO:127.0.0.1 - - [29/Apr/2025 01:03:46] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03\x87\x85\x9f W°Ð±#\x01ÕÀ >Ìà!Ö\x89\x0eª¢\x0cQ\x97Æ6é¦>ö× +\x86~þ;÷\x05@Wÿ\x10( ³\x15L2¤\x13Æû\x85S^­\x07l[¯,ºá\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ZZ\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00#\x00\x00\x003\x04ï\x04í[0m" 400 -
+2025-04-29 01:04:24,513:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2025-04-29 01:04:24,612:INFO: * Restarting with stat
+2025-04-29 01:04:25,216:INFO:User table creation checked/created successfully.
+2025-04-29 01:04:25,247:WARNING: * Debugger is active!
+2025-04-29 01:04:25,249:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:04:56,785:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2025-04-29 01:04:56,871:INFO: * Restarting with stat
+2025-04-29 01:05:15,205:INFO:User table creation checked/created successfully.
+2025-04-29 01:05:15,249:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 01:05:15,250:INFO:[33mPress CTRL+C to quit[0m
+2025-04-29 01:05:15,252:INFO: * Restarting with stat
+2025-04-29 01:05:15,719:INFO:User table creation checked/created successfully.
+2025-04-29 01:05:15,743:WARNING: * Debugger is active!
+2025-04-29 01:05:15,745:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:05:37,150:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2025-04-29 01:05:37,216:INFO: * Restarting with stat
+2025-04-29 01:06:32,229:INFO:User table creation checked/created successfully.
+2025-04-29 01:06:32,273:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 01:06:32,273:INFO:[33mPress CTRL+C to quit[0m
+2025-04-29 01:06:32,275:INFO: * Restarting with stat
+2025-04-29 01:06:32,871:INFO:User table creation checked/created successfully.
+2025-04-29 01:06:32,903:WARNING: * Debugger is active!
+2025-04-29 01:06:32,906:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:06:38,466:ERROR:127.0.0.1 - - [29/Apr/2025 01:06:38] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Eêê\x00\x00\x003\x04ï\x04íúú\x00\x01\x00\x11ì\x04Àç£\x8aþ,\x1a')
+2025-04-29 01:06:38,467:INFO:127.0.0.1 - - [29/Apr/2025 01:06:38] "[31m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03¢ðB9\x89\x0b¿3\x97MçßAèÅ0í,¬Ò\x1a¿6±u\x03kè0E²\x06 ýå \x19\x86DËç"¾S5©Rsk«Ñ\x12-\x06¶Ë\x0bí¤\x13\x1c?Q\x98\x19\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Eêê\x00\x00\x003\x04ï\x04íúú\x00\x01\x00\x11ì\x04Àç£\x8aþ,\x1a[0m" 400 -
+2025-04-29 01:06:38,729:ERROR:127.0.0.1 - - [29/Apr/2025 01:06:38] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+2025-04-29 01:06:38,729:INFO:127.0.0.1 - - [29/Apr/2025 01:06:38] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03\x9cwÕ'Ô;\x07Yt\x04±\x13sÔ]Y\x06\x14§¦ab¯õýeEßDû\x96o \x8c\x94\x8cLøß\x8fC\x9dô¶Ó\x0f{ÈuîA¼Q\x145øß"T&\x86³üå^\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥jj\x00\x00\x00-\x00\x02\x01\x01\x00\x0b\x00\x02\x01\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00[0m" 400 -
+2025-04-29 01:06:38,784:ERROR:127.0.0.1 - - [29/Apr/2025 01:06:38] code 400, message Bad request version ('¥ìCï¹Ð/\x935\x7fJË!¯Já\x06\xadâ;\x18Í»\x15\x8d?V\x98QCKâXsDÍ\x00\x05\x00\x03\x02h2\x00')
+2025-04-29 01:06:38,784:INFO:127.0.0.1 - - [29/Apr/2025 01:06:38] "[31m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03ïN×u5×Ù¡ÆJK"\x98óßp\x8aæì³·1P2yn(\x14\x0e¡Ð\x80 \x05\x82c\x04ëxÖ\x89J÷ß4#\x15ò/_PE\x98\x94ÿ\x1dDÓ\x1a?o\x98ä3õ\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85úú\x00\x00\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0b\x00\x02\x01\x00þ\x0d\x00ú\x00\x00\x01\x00\x01\x90\x00 \x00Â ¤BÓ\x8fÈ\x99\x16½CÇè*â0uÑ>\x8e\x17X¤¹\x0f\x14\x04Ü×\x02b\x00Ð\x92­æë\x8d\x04\x10ö\x8cÐ·#ü~³\x8e\x18Ýb÷\x01WF\x07®i­êí\x9bM¬\x1d`µsµÃ\x10Ð¶ÒÇûßÉ¾¯{T4V\x03à\x13\x10+Îùv<ÃðBøµö\x89\x99)Y^ïõÞ¸aÎïa7l%~ðÿ[\x98\x8f\x9bõÓÉÖÎ¤ZC\x00_Û¹\x094Âg\x93zV:\x1c¯Úu«\x91Ã\x17%ÞJ\x98÷¾1ì¶v£S@]~'¿©r³\x93Áp\x9c\x91{4";[®zµÒ\x1f\x16Ë\x0eèK-\x04<Q¨"H\x9c\x91-\\8\x01÷¦\x1c¥ìCï¹Ð/\x935\x7fJË!¯Já\x06­â;\x18Í»\x15\x8d?V\x98QCKâXsDÍ\x00\x05\x00\x03\x02h2\x00[0m" 400 -
+2025-04-29 01:06:39,039:ERROR:127.0.0.1 - - [29/Apr/2025 01:06:39] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+2025-04-29 01:06:39,040:INFO:127.0.0.1 - - [29/Apr/2025 01:06:39] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03²o\x8e\x99p?8þ\x1b"\x86\x99ÁgÉ÷\x95\x80±I6b\x16Åc\x03O\x14Vo\x13Í \x92D¿1¸Édx;\x1a!\x8a\x01\x98XZ©zoÙ ØY\x88Á¬"|ÖB~@\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06eúú\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x1b\x00\x03\x02\x00\x02\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x12\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00-\x00\x02\x01\x01\x00#\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00[0m" 400 -
+2025-04-29 01:07:09,564:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2025-04-29 01:07:09,642:INFO: * Restarting with stat
+2025-04-29 01:07:10,219:INFO:User table creation checked/created successfully.
+2025-04-29 01:07:10,245:WARNING: * Debugger is active!
+2025-04-29 01:07:10,248:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:07:10,285:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2025-04-29 01:07:10,334:INFO: * Restarting with stat
+2025-04-29 01:07:10,932:INFO:User table creation checked/created successfully.
+2025-04-29 01:07:10,960:WARNING: * Debugger is active!
+2025-04-29 01:07:10,962:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:07:14,033:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2025-04-29 01:07:14,107:INFO: * Restarting with stat
+2025-04-29 01:07:14,773:INFO:User table creation checked/created successfully.
+2025-04-29 01:07:14,808:WARNING: * Debugger is active!
+2025-04-29 01:07:14,811:INFO: * Debugger PIN: 818-922-342
+2025-04-29 01:07:17,915:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2025-04-29 01:07:18,008:INFO: * Restarting with stat
+2025-04-29 01:07:39,987:INFO:User table creation checked/created successfully.
+2025-04-29 01:07:40,030:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 01:07:40,030:INFO:[33mPress CTRL+C to quit[0m
+2025-04-29 01:08:10,051:INFO:Fetched all users successfully
+2025-04-29 01:08:10,064:INFO:127.0.0.1 - - [29/Apr/2025 01:08:10] "GET / HTTP/1.1" 200 -
+2025-04-29 01:08:10,192:INFO:127.0.0.1 - - [29/Apr/2025 01:08:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-29 01:13:00,197:INFO:Fetched all users successfully
+2025-04-29 01:13:00,234:INFO:127.0.0.1 - - [29/Apr/2025 01:13:00] "GET / HTTP/1.1" 200 -
+2025-04-29 01:13:01,883:INFO:Fetched all users successfully
+2025-04-29 01:13:01,885:INFO:127.0.0.1 - - [29/Apr/2025 01:13:01] "GET / HTTP/1.1" 200 -
+2025-04-29 01:19:44,370:INFO:Fetched all users successfully
+2025-04-29 01:19:44,556:INFO:127.0.0.1 - - [29/Apr/2025 01:19:44] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-29 01:19:44,680:INFO:127.0.0.1 - - [29/Apr/2025 01:19:44] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-29 01:19:44,681:INFO:127.0.0.1 - - [29/Apr/2025 01:19:44] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-29 01:19:44,780:INFO:127.0.0.1 - - [29/Apr/2025 01:19:44] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=xuku63vaB5zGHVV2YjvS HTTP/1.1" 200 -
+2025-04-29 01:19:44,809:INFO:127.0.0.1 - - [29/Apr/2025 01:19:44] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-29 01:21:01,556:INFO:Fetched all users successfully
+2025-04-29 01:21:01,574:INFO:127.0.0.1 - - [29/Apr/2025 01:21:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-29 01:21:01,622:INFO:127.0.0.1 - - [29/Apr/2025 01:21:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-29 01:21:01,623:INFO:127.0.0.1 - - [29/Apr/2025 01:21:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-29 01:21:01,646:INFO:127.0.0.1 - - [29/Apr/2025 01:21:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=xuku63vaB5zGHVV2YjvS HTTP/1.1[0m" 304 -
+2025-04-29 01:21:01,664:INFO:127.0.0.1 - - [29/Apr/2025 01:21:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-29 01:21:08,909:INFO:User table creation checked/created successfully.
+2025-04-29 01:21:08,955:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 01:21:08,955:INFO:[33mPress CTRL+C to quit[0m
+2025-04-29 01:21:12,234:INFO:Fetched all users successfully
+2025-04-29 01:21:12,249:INFO:127.0.0.1 - - [29/Apr/2025 01:21:12] "GET / HTTP/1.1" 200 -
+2025-04-29 01:21:16,134:INFO:127.0.0.1 - - [29/Apr/2025 01:21:16] "GET /insert HTTP/1.1" 200 -
+2025-04-29 01:21:25,677:INFO:127.0.0.1 - - [29/Apr/2025 01:21:25] "GET /insert HTTP/1.1" 200 -
+2025-04-29 01:21:40,456:INFO:User inserted successfully
+2025-04-29 01:21:40,457:INFO:127.0.0.1 - - [29/Apr/2025 01:21:40] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2025-04-29 01:21:40,474:INFO:Fetched all users successfully
+2025-04-29 01:21:40,476:INFO:127.0.0.1 - - [29/Apr/2025 01:21:40] "GET / HTTP/1.1" 200 -
+2025-04-29 01:21:42,552:INFO:127.0.0.1 - - [29/Apr/2025 01:21:42] "GET /update/4 HTTP/1.1" 200 -
+2025-04-29 01:26:47,741:INFO:Fetched all users successfully
+2025-04-29 01:26:47,742:INFO:127.0.0.1 - - [29/Apr/2025 01:26:47] "GET / HTTP/1.1" 200 -
+2026-01-19 21:57:17,482:INFO:User table creation checked/created successfully.
+2026-01-19 21:57:17,571:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 21:57:17,571:INFO:[33mPress CTRL+C to quit[0m
+2026-01-19 21:57:53,395:INFO:Fetched all users successfully
+2026-01-19 21:57:53,408:INFO:127.0.0.1 - - [19/Jan/2026 21:57:53] "GET / HTTP/1.1" 200 -
+2026-01-19 21:57:53,609:INFO:127.0.0.1 - - [19/Jan/2026 21:57:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-19 21:58:19,688:INFO:User table creation checked/created successfully.
+2026-01-19 21:58:19,698:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 21:58:19,698:INFO:[33mPress CTRL+C to quit[0m
+2026-01-19 21:58:40,365:INFO:Fetched all users successfully
+2026-01-19 21:58:40,370:INFO:127.0.0.1 - - [19/Jan/2026 21:58:40] "GET / HTTP/1.1" 200 -
+2026-01-19 21:58:41,013:INFO:Fetched all users successfully
+2026-01-19 21:58:41,014:INFO:127.0.0.1 - - [19/Jan/2026 21:58:41] "GET / HTTP/1.1" 200 -
+2026-01-19 21:58:41,198:INFO:Fetched all users successfully
+2026-01-19 21:58:41,198:INFO:127.0.0.1 - - [19/Jan/2026 21:58:41] "GET / HTTP/1.1" 200 -
+2026-01-19 21:58:41,352:INFO:Fetched all users successfully
+2026-01-19 21:58:41,353:INFO:127.0.0.1 - - [19/Jan/2026 21:58:41] "GET / HTTP/1.1" 200 -
+2026-01-19 21:58:41,738:INFO:127.0.0.1 - - [19/Jan/2026 21:58:41] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:04:52,128:INFO:User table creation checked/created successfully.
+2026-01-19 22:04:52,138:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 22:04:52,138:INFO:[33mPress CTRL+C to quit[0m
+2026-01-19 22:04:52,139:INFO: * Restarting with stat
+2026-01-19 22:04:52,332:INFO:User table creation checked/created successfully.
+2026-01-19 22:04:52,338:WARNING: * Debugger is active!
+2026-01-19 22:04:52,340:INFO: * Debugger PIN: 133-055-494
+2026-01-19 22:09:05,910:INFO:User table creation checked/created successfully.
+2026-01-19 22:09:05,921:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 22:09:05,921:INFO:[33mPress CTRL+C to quit[0m
+2026-01-19 22:09:05,921:INFO: * Restarting with stat
+2026-01-19 22:09:06,112:INFO:User table creation checked/created successfully.
+2026-01-19 22:09:06,118:WARNING: * Debugger is active!
+2026-01-19 22:09:06,120:INFO: * Debugger PIN: 133-055-494
+2026-01-19 22:09:08,143:INFO:Fetched all users successfully
+2026-01-19 22:09:08,147:INFO:127.0.0.1 - - [19/Jan/2026 22:09:08] "GET / HTTP/1.1" 200 -
+2026-01-19 22:09:11,979:INFO:127.0.0.1 - - [19/Jan/2026 22:09:11] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:09:17,787:INFO:127.0.0.1 - - [19/Jan/2026 22:09:17] "[35m[1mPOST /insert HTTP/1.1[0m" 500 -
+2026-01-19 22:09:17,909:INFO:127.0.0.1 - - [19/Jan/2026 22:09:17] "GET /insert?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-01-19 22:09:17,921:INFO:127.0.0.1 - - [19/Jan/2026 22:09:17] "GET /insert?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-01-19 22:09:17,940:INFO:127.0.0.1 - - [19/Jan/2026 22:09:17] "GET /insert?__debugger__=yes&cmd=resource&f=console.png&s=C9KpQRIhsdlVx89gFN6W HTTP/1.1" 200 -
+2026-01-19 22:09:17,960:INFO:127.0.0.1 - - [19/Jan/2026 22:09:17] "GET /insert?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-01-19 22:10:23,909:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2026-01-19 22:10:23,930:INFO: * Restarting with stat
+2026-01-19 22:10:24,127:INFO:User table creation checked/created successfully.
+2026-01-19 22:10:24,134:WARNING: * Debugger is active!
+2026-01-19 22:10:24,135:INFO: * Debugger PIN: 133-055-494
+2026-01-19 22:12:26,061:INFO: * Detected change in 'C:\\Archit\\Projects\\Dynamic SQL Query Automation\\app.py', reloading
+2026-01-19 22:12:26,083:INFO: * Restarting with stat
+2026-01-19 22:12:26,284:INFO:User table creation checked/created successfully.
+2026-01-19 22:12:26,292:WARNING: * Debugger is active!
+2026-01-19 22:12:26,294:INFO: * Debugger PIN: 133-055-494
+2026-01-19 22:17:35,113:INFO:User table creation checked/created successfully.
+2026-01-19 22:17:35,124:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 22:17:35,124:INFO:[33mPress CTRL+C to quit[0m
+2026-01-19 22:17:35,124:INFO: * Restarting with stat
+2026-01-19 22:17:35,317:INFO:User table creation checked/created successfully.
+2026-01-19 22:17:35,323:WARNING: * Debugger is active!
+2026-01-19 22:17:35,325:INFO: * Debugger PIN: 133-055-494
+2026-01-19 22:17:37,074:INFO:127.0.0.1 - - [19/Jan/2026 22:17:37] "[35m[1mPOST /insert HTTP/1.1[0m" 500 -
+2026-01-19 22:17:37,170:INFO:127.0.0.1 - - [19/Jan/2026 22:17:37] "[36mGET /insert?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 22:17:37,170:INFO:127.0.0.1 - - [19/Jan/2026 22:17:37] "[36mGET /insert?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 22:17:37,198:INFO:127.0.0.1 - - [19/Jan/2026 22:17:37] "GET /insert?__debugger__=yes&cmd=resource&f=console.png&s=fntJnIBxmIOIa1N6effp HTTP/1.1" 200 -
+2026-01-19 22:17:37,281:INFO:127.0.0.1 - - [19/Jan/2026 22:17:37] "[36mGET /insert?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 22:17:39,464:INFO:Fetched all users successfully
+2026-01-19 22:17:39,471:INFO:127.0.0.1 - - [19/Jan/2026 22:17:39] "GET / HTTP/1.1" 200 -
+2026-01-19 22:17:40,359:INFO:127.0.0.1 - - [19/Jan/2026 22:17:40] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:17:43,033:INFO:127.0.0.1 - - [19/Jan/2026 22:17:43] "[35m[1mPOST /insert HTTP/1.1[0m" 500 -
+2026-01-19 22:17:43,048:INFO:127.0.0.1 - - [19/Jan/2026 22:17:43] "[36mGET /insert?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 22:17:43,049:INFO:127.0.0.1 - - [19/Jan/2026 22:17:43] "[36mGET /insert?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 22:17:43,057:INFO:127.0.0.1 - - [19/Jan/2026 22:17:43] "[36mGET /insert?__debugger__=yes&cmd=resource&f=console.png&s=fntJnIBxmIOIa1N6effp HTTP/1.1[0m" 304 -
+2026-01-19 22:17:43,076:INFO:127.0.0.1 - - [19/Jan/2026 22:17:43] "[36mGET /insert?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 22:18:38,339:INFO:127.0.0.1 - - [19/Jan/2026 22:18:38] "[35m[1mPOST /insert HTTP/1.1[0m" 500 -
+2026-01-19 22:18:38,357:INFO:127.0.0.1 - - [19/Jan/2026 22:18:38] "[36mGET /insert?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 22:18:38,357:INFO:127.0.0.1 - - [19/Jan/2026 22:18:38] "[36mGET /insert?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 22:18:38,369:INFO:127.0.0.1 - - [19/Jan/2026 22:18:38] "[36mGET /insert?__debugger__=yes&cmd=resource&f=console.png&s=fntJnIBxmIOIa1N6effp HTTP/1.1[0m" 304 -
+2026-01-19 22:18:38,388:INFO:127.0.0.1 - - [19/Jan/2026 22:18:38] "[36mGET /insert?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 22:18:39,550:INFO:127.0.0.1 - - [19/Jan/2026 22:18:39] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:18:39,739:INFO:127.0.0.1 - - [19/Jan/2026 22:18:39] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:18:40,863:INFO:Fetched all users successfully
+2026-01-19 22:18:40,866:INFO:127.0.0.1 - - [19/Jan/2026 22:18:40] "GET / HTTP/1.1" 200 -
+2026-01-19 22:18:41,042:INFO:Fetched all users successfully
+2026-01-19 22:18:41,043:INFO:127.0.0.1 - - [19/Jan/2026 22:18:41] "GET / HTTP/1.1" 200 -
+2026-01-19 22:18:41,242:INFO:Fetched all users successfully
+2026-01-19 22:18:41,242:INFO:127.0.0.1 - - [19/Jan/2026 22:18:41] "GET / HTTP/1.1" 200 -
+2026-01-19 22:18:41,438:INFO:Fetched all users successfully
+2026-01-19 22:18:41,438:INFO:127.0.0.1 - - [19/Jan/2026 22:18:41] "GET / HTTP/1.1" 200 -
+2026-01-19 22:18:41,708:INFO:127.0.0.1 - - [19/Jan/2026 22:18:41] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:19:49,632:INFO:User inserted successfully
+2026-01-19 22:19:49,632:INFO:127.0.0.1 - - [19/Jan/2026 22:19:49] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:19:49,636:INFO:Fetched all users successfully
+2026-01-19 22:19:49,637:INFO:127.0.0.1 - - [19/Jan/2026 22:19:49] "GET / HTTP/1.1" 200 -
+2026-01-19 22:19:53,320:INFO:127.0.0.1 - - [19/Jan/2026 22:19:53] "[35m[1mGET /update/4 HTTP/1.1[0m" 500 -
+2026-01-19 22:19:53,339:INFO:127.0.0.1 - - [19/Jan/2026 22:19:53] "GET /update/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-01-19 22:19:53,340:INFO:127.0.0.1 - - [19/Jan/2026 22:19:53] "GET /update/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-01-19 22:19:53,347:INFO:127.0.0.1 - - [19/Jan/2026 22:19:53] "GET /update/4?__debugger__=yes&cmd=resource&f=console.png&s=fntJnIBxmIOIa1N6effp HTTP/1.1" 200 -
+2026-01-19 22:19:53,369:INFO:127.0.0.1 - - [19/Jan/2026 22:19:53] "GET /update/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-01-19 22:19:57,090:INFO:User deleted successfully
+2026-01-19 22:19:57,090:INFO:127.0.0.1 - - [19/Jan/2026 22:19:57] "[32mGET /delete/4 HTTP/1.1[0m" 302 -
+2026-01-19 22:19:57,094:INFO:Fetched all users successfully
+2026-01-19 22:19:57,094:INFO:127.0.0.1 - - [19/Jan/2026 22:19:57] "GET / HTTP/1.1" 200 -
+2026-01-19 22:19:58,110:INFO:127.0.0.1 - - [19/Jan/2026 22:19:58] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:20:02,127:INFO:User inserted successfully
+2026-01-19 22:20:02,127:INFO:127.0.0.1 - - [19/Jan/2026 22:20:02] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:20:02,132:INFO:Fetched all users successfully
+2026-01-19 22:20:02,132:INFO:127.0.0.1 - - [19/Jan/2026 22:20:02] "GET / HTTP/1.1" 200 -
+2026-01-19 22:20:03,090:INFO:127.0.0.1 - - [19/Jan/2026 22:20:03] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:20:06,841:INFO:User inserted successfully
+2026-01-19 22:20:06,841:INFO:127.0.0.1 - - [19/Jan/2026 22:20:06] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:20:06,845:INFO:Fetched all users successfully
+2026-01-19 22:20:06,846:INFO:127.0.0.1 - - [19/Jan/2026 22:20:06] "GET / HTTP/1.1" 200 -
+2026-01-19 22:20:08,547:INFO:127.0.0.1 - - [19/Jan/2026 22:20:08] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:20:13,840:INFO:User inserted successfully
+2026-01-19 22:20:13,841:INFO:127.0.0.1 - - [19/Jan/2026 22:20:13] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:20:13,846:INFO:Fetched all users successfully
+2026-01-19 22:20:13,846:INFO:127.0.0.1 - - [19/Jan/2026 22:20:13] "GET / HTTP/1.1" 200 -
+2026-01-19 22:20:16,670:INFO:User deleted successfully
+2026-01-19 22:20:16,670:INFO:127.0.0.1 - - [19/Jan/2026 22:20:16] "[32mGET /delete/2 HTTP/1.1[0m" 302 -
+2026-01-19 22:20:16,674:INFO:Fetched all users successfully
+2026-01-19 22:20:16,674:INFO:127.0.0.1 - - [19/Jan/2026 22:20:16] "GET / HTTP/1.1" 200 -
+2026-01-19 22:20:18,961:INFO:127.0.0.1 - - [19/Jan/2026 22:20:18] "[35m[1mGET /update/3 HTTP/1.1[0m" 500 -
+2026-01-19 22:20:18,984:INFO:127.0.0.1 - - [19/Jan/2026 22:20:18] "GET /update/3?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-01-19 22:20:18,984:INFO:127.0.0.1 - - [19/Jan/2026 22:20:18] "GET /update/3?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-01-19 22:20:18,994:INFO:127.0.0.1 - - [19/Jan/2026 22:20:18] "GET /update/3?__debugger__=yes&cmd=resource&f=console.png&s=fntJnIBxmIOIa1N6effp HTTP/1.1" 200 -
+2026-01-19 22:20:19,015:INFO:127.0.0.1 - - [19/Jan/2026 22:20:19] "GET /update/3?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-01-19 22:43:02,531:INFO:User table creation checked/created successfully.
+2026-01-19 22:43:02,542:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 22:43:02,542:INFO:[33mPress CTRL+C to quit[0m
+2026-01-19 22:43:11,316:INFO:Fetched all users successfully
+2026-01-19 22:43:11,321:INFO:127.0.0.1 - - [19/Jan/2026 22:43:11] "GET / HTTP/1.1" 200 -
+2026-01-19 22:43:13,099:INFO:127.0.0.1 - - [19/Jan/2026 22:43:13] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:43:17,123:INFO:User inserted successfully
+2026-01-19 22:43:17,123:INFO:127.0.0.1 - - [19/Jan/2026 22:43:17] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:43:17,128:INFO:Fetched all users successfully
+2026-01-19 22:43:17,128:INFO:127.0.0.1 - - [19/Jan/2026 22:43:17] "GET / HTTP/1.1" 200 -
+2026-01-19 22:43:18,612:INFO:127.0.0.1 - - [19/Jan/2026 22:43:18] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:43:28,230:INFO:User inserted successfully
+2026-01-19 22:43:28,230:INFO:127.0.0.1 - - [19/Jan/2026 22:43:28] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:43:28,234:INFO:Fetched all users successfully
+2026-01-19 22:43:28,235:INFO:127.0.0.1 - - [19/Jan/2026 22:43:28] "GET / HTTP/1.1" 200 -
+2026-01-19 22:43:52,309:INFO:127.0.0.1 - - [19/Jan/2026 22:43:52] "GET /update/1 HTTP/1.1" 200 -
+2026-01-19 22:43:58,634:INFO:User deleted successfully
+2026-01-19 22:43:58,634:INFO:127.0.0.1 - - [19/Jan/2026 22:43:58] "[32mGET /delete/1 HTTP/1.1[0m" 302 -
+2026-01-19 22:43:58,638:INFO:Fetched all users successfully
+2026-01-19 22:43:58,638:INFO:127.0.0.1 - - [19/Jan/2026 22:43:58] "GET / HTTP/1.1" 200 -
+2026-01-19 22:43:59,011:INFO:User deleted successfully
+2026-01-19 22:43:59,011:INFO:127.0.0.1 - - [19/Jan/2026 22:43:59] "[32mGET /delete/2 HTTP/1.1[0m" 302 -
+2026-01-19 22:43:59,015:INFO:Fetched all users successfully
+2026-01-19 22:43:59,016:INFO:127.0.0.1 - - [19/Jan/2026 22:43:59] "GET / HTTP/1.1" 200 -
+2026-01-19 22:44:00,025:INFO:127.0.0.1 - - [19/Jan/2026 22:44:00] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:47:13,553:INFO:Fetched all users successfully
+2026-01-19 22:47:13,556:INFO:127.0.0.1 - - [19/Jan/2026 22:47:13] "GET / HTTP/1.1" 200 -
+2026-01-19 22:47:15,332:INFO:127.0.0.1 - - [19/Jan/2026 22:47:15] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:47:29,563:INFO:127.0.0.1 - - [19/Jan/2026 22:47:29] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:47:33,703:INFO:User inserted successfully
+2026-01-19 22:47:33,703:INFO:127.0.0.1 - - [19/Jan/2026 22:47:33] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:47:33,707:INFO:Fetched all users successfully
+2026-01-19 22:47:33,708:INFO:127.0.0.1 - - [19/Jan/2026 22:47:33] "GET / HTTP/1.1" 200 -
+2026-01-19 22:47:35,213:INFO:127.0.0.1 - - [19/Jan/2026 22:47:35] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:47:40,225:INFO:User inserted successfully
+2026-01-19 22:47:40,226:INFO:127.0.0.1 - - [19/Jan/2026 22:47:40] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:47:40,230:INFO:Fetched all users successfully
+2026-01-19 22:47:40,230:INFO:127.0.0.1 - - [19/Jan/2026 22:47:40] "GET / HTTP/1.1" 200 -
+2026-01-19 22:47:41,841:INFO:127.0.0.1 - - [19/Jan/2026 22:47:41] "GET /update/1 HTTP/1.1" 200 -
+2026-01-19 22:47:45,614:INFO:User updated successfully
+2026-01-19 22:47:45,614:INFO:127.0.0.1 - - [19/Jan/2026 22:47:45] "[32mPOST /update/1 HTTP/1.1[0m" 302 -
+2026-01-19 22:47:45,618:INFO:Fetched all users successfully
+2026-01-19 22:47:45,619:INFO:127.0.0.1 - - [19/Jan/2026 22:47:45] "GET / HTTP/1.1" 200 -
+2026-01-19 22:47:47,320:INFO:127.0.0.1 - - [19/Jan/2026 22:47:47] "GET /update/1 HTTP/1.1" 200 -
+2026-01-19 22:47:52,133:INFO:User updated successfully
+2026-01-19 22:47:52,133:INFO:127.0.0.1 - - [19/Jan/2026 22:47:52] "[32mPOST /update/1 HTTP/1.1[0m" 302 -
+2026-01-19 22:47:52,137:INFO:Fetched all users successfully
+2026-01-19 22:47:52,138:INFO:127.0.0.1 - - [19/Jan/2026 22:47:52] "GET / HTTP/1.1" 200 -
+2026-01-19 22:47:56,246:INFO:127.0.0.1 - - [19/Jan/2026 22:47:56] "GET /update/1 HTTP/1.1" 200 -
+2026-01-19 22:48:05,316:INFO:User updated successfully
+2026-01-19 22:48:05,316:INFO:127.0.0.1 - - [19/Jan/2026 22:48:05] "[32mPOST /update/1 HTTP/1.1[0m" 302 -
+2026-01-19 22:48:05,321:INFO:Fetched all users successfully
+2026-01-19 22:48:05,321:INFO:127.0.0.1 - - [19/Jan/2026 22:48:05] "GET / HTTP/1.1" 200 -
+2026-01-19 22:48:07,047:INFO:User deleted successfully
+2026-01-19 22:48:07,048:INFO:127.0.0.1 - - [19/Jan/2026 22:48:07] "[32mGET /delete/1 HTTP/1.1[0m" 302 -
+2026-01-19 22:48:07,052:INFO:Fetched all users successfully
+2026-01-19 22:48:07,053:INFO:127.0.0.1 - - [19/Jan/2026 22:48:07] "GET / HTTP/1.1" 200 -
+2026-01-19 22:48:07,458:INFO:User deleted successfully
+2026-01-19 22:48:07,458:INFO:127.0.0.1 - - [19/Jan/2026 22:48:07] "[32mGET /delete/2 HTTP/1.1[0m" 302 -
+2026-01-19 22:48:07,462:INFO:Fetched all users successfully
+2026-01-19 22:48:07,463:INFO:127.0.0.1 - - [19/Jan/2026 22:48:07] "GET / HTTP/1.1" 200 -
+2026-01-19 22:56:16,919:INFO:Fetched all users successfully
+2026-01-19 22:56:16,924:INFO:127.0.0.1 - - [19/Jan/2026 22:56:16] "GET / HTTP/1.1" 200 -
+2026-01-19 22:56:18,602:INFO:127.0.0.1 - - [19/Jan/2026 22:56:18] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:56:22,423:INFO:User inserted successfully
+2026-01-19 22:56:22,423:INFO:127.0.0.1 - - [19/Jan/2026 22:56:22] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:56:22,427:INFO:Fetched all users successfully
+2026-01-19 22:56:22,428:INFO:127.0.0.1 - - [19/Jan/2026 22:56:22] "GET / HTTP/1.1" 200 -
+2026-01-19 22:56:30,163:INFO:127.0.0.1 - - [19/Jan/2026 22:56:30] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:56:34,228:INFO:User inserted successfully
+2026-01-19 22:56:34,229:INFO:127.0.0.1 - - [19/Jan/2026 22:56:34] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:56:34,233:INFO:Fetched all users successfully
+2026-01-19 22:56:34,233:INFO:127.0.0.1 - - [19/Jan/2026 22:56:34] "GET / HTTP/1.1" 200 -
+2026-01-19 22:56:38,718:INFO:127.0.0.1 - - [19/Jan/2026 22:56:38] "GET /insert HTTP/1.1" 200 -
+2026-01-19 22:56:42,420:INFO:127.0.0.1 - - [19/Jan/2026 22:56:42] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 22:56:42,424:INFO:Fetched all users successfully
+2026-01-19 22:56:42,424:INFO:127.0.0.1 - - [19/Jan/2026 22:56:42] "GET / HTTP/1.1" 200 -
+2026-01-19 22:56:49,575:INFO:Fetched all users successfully
+2026-01-19 22:56:49,576:INFO:127.0.0.1 - - [19/Jan/2026 22:56:49] "GET / HTTP/1.1" 200 -
+2026-01-19 22:56:50,118:INFO:Fetched all users successfully
+2026-01-19 22:56:50,118:INFO:127.0.0.1 - - [19/Jan/2026 22:56:50] "GET / HTTP/1.1" 200 -
+2026-01-19 22:56:50,352:INFO:Fetched all users successfully
+2026-01-19 22:56:50,352:INFO:127.0.0.1 - - [19/Jan/2026 22:56:50] "GET / HTTP/1.1" 200 -
+2026-01-19 22:56:50,539:INFO:Fetched all users successfully
+2026-01-19 22:56:50,539:INFO:127.0.0.1 - - [19/Jan/2026 22:56:50] "GET / HTTP/1.1" 200 -
+2026-01-19 22:56:50,693:INFO:Fetched all users successfully
+2026-01-19 22:56:50,694:INFO:127.0.0.1 - - [19/Jan/2026 22:56:50] "GET / HTTP/1.1" 200 -
+2026-01-19 23:05:08,104:INFO:Fetched all users successfully
+2026-01-19 23:05:08,128:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:05:08,242:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-01-19 23:05:08,246:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-01-19 23:05:08,258:INFO:Fetched all users successfully
+2026-01-19 23:05:08,266:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=9SMbpFDVQCsn0KWJK2GF HTTP/1.1" 200 -
+2026-01-19 23:05:08,269:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:05:08,292:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:05:08,293:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:05:08,301:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=9SMbpFDVQCsn0KWJK2GF HTTP/1.1[0m" 304 -
+2026-01-19 23:05:08,322:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-01-19 23:05:08,423:INFO:Fetched all users successfully
+2026-01-19 23:05:08,435:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:05:08,452:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:05:08,452:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:05:08,459:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=9SMbpFDVQCsn0KWJK2GF HTTP/1.1[0m" 304 -
+2026-01-19 23:05:08,481:INFO:127.0.0.1 - - [19/Jan/2026 23:05:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 23:06:04,912:INFO:Fetched all users successfully
+2026-01-19 23:06:04,918:INFO:127.0.0.1 - - [19/Jan/2026 23:06:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:06:04,936:INFO:127.0.0.1 - - [19/Jan/2026 23:06:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:06:04,936:INFO:127.0.0.1 - - [19/Jan/2026 23:06:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:06:04,945:INFO:127.0.0.1 - - [19/Jan/2026 23:06:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=9SMbpFDVQCsn0KWJK2GF HTTP/1.1[0m" 304 -
+2026-01-19 23:06:04,968:INFO:127.0.0.1 - - [19/Jan/2026 23:06:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 23:06:05,499:INFO:127.0.0.1 - - [19/Jan/2026 23:06:05] "GET /insert HTTP/1.1" 200 -
+2026-01-19 23:06:06,080:INFO:127.0.0.1 - - [19/Jan/2026 23:06:06] "GET /insert HTTP/1.1" 200 -
+2026-01-19 23:06:11,131:INFO:Fetched all users successfully
+2026-01-19 23:06:11,140:INFO:127.0.0.1 - - [19/Jan/2026 23:06:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:06:11,159:INFO:127.0.0.1 - - [19/Jan/2026 23:06:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:06:11,159:INFO:127.0.0.1 - - [19/Jan/2026 23:06:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:06:11,168:INFO:127.0.0.1 - - [19/Jan/2026 23:06:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=9SMbpFDVQCsn0KWJK2GF HTTP/1.1[0m" 304 -
+2026-01-19 23:06:23,503:INFO:User table creation checked/created successfully.
+2026-01-19 23:06:23,514:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 23:06:23,514:INFO:[33mPress CTRL+C to quit[0m
+2026-01-19 23:06:25,152:INFO:Fetched all users successfully
+2026-01-19 23:06:25,163:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:06:25,215:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,215:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,225:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ek6XcRYSA2Gjs7p28iEd HTTP/1.1" 200 -
+2026-01-19 23:06:25,244:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,665:INFO:Fetched all users successfully
+2026-01-19 23:06:25,669:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:06:25,687:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,687:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,697:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=ek6XcRYSA2Gjs7p28iEd HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,717:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,843:INFO:Fetched all users successfully
+2026-01-19 23:06:25,848:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:06:25,865:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,865:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,873:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=ek6XcRYSA2Gjs7p28iEd HTTP/1.1[0m" 304 -
+2026-01-19 23:06:25,893:INFO:127.0.0.1 - - [19/Jan/2026 23:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 23:09:23,377:INFO:Fetched all users successfully
+2026-01-19 23:09:23,381:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:09:23,402:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:09:23,402:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:09:23,414:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=ek6XcRYSA2Gjs7p28iEd HTTP/1.1[0m" 304 -
+2026-01-19 23:09:23,434:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 23:09:23,825:INFO:Fetched all users successfully
+2026-01-19 23:09:23,838:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:09:23,854:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:09:23,855:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:09:23,864:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=ek6XcRYSA2Gjs7p28iEd HTTP/1.1[0m" 304 -
+2026-01-19 23:09:23,883:INFO:127.0.0.1 - - [19/Jan/2026 23:09:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 23:09:24,031:INFO:Fetched all users successfully
+2026-01-19 23:09:24,035:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:09:24,054:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:09:24,054:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:09:24,063:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=ek6XcRYSA2Gjs7p28iEd HTTP/1.1[0m" 304 -
+2026-01-19 23:09:24,084:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 23:09:24,205:INFO:Fetched all users successfully
+2026-01-19 23:09:24,219:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-01-19 23:09:24,236:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-01-19 23:09:24,236:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-01-19 23:09:24,245:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=ek6XcRYSA2Gjs7p28iEd HTTP/1.1[0m" 304 -
+2026-01-19 23:09:24,267:INFO:127.0.0.1 - - [19/Jan/2026 23:09:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-01-19 23:10:04,711:INFO:User table creation checked/created successfully.
+2026-01-19 23:10:04,721:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 23:10:04,721:INFO:[33mPress CTRL+C to quit[0m
+2026-01-19 23:10:06,139:INFO:Fetched all users successfully
+2026-01-19 23:10:06,142:INFO:127.0.0.1 - - [19/Jan/2026 23:10:06] "GET / HTTP/1.1" 200 -
+2026-01-19 23:10:07,307:INFO:Fetched all users successfully
+2026-01-19 23:10:07,308:INFO:127.0.0.1 - - [19/Jan/2026 23:10:07] "GET / HTTP/1.1" 200 -
+2026-01-19 23:10:07,493:INFO:Fetched all users successfully
+2026-01-19 23:10:07,494:INFO:127.0.0.1 - - [19/Jan/2026 23:10:07] "GET / HTTP/1.1" 200 -
+2026-01-19 23:10:07,688:INFO:Fetched all users successfully
+2026-01-19 23:10:07,689:INFO:127.0.0.1 - - [19/Jan/2026 23:10:07] "GET / HTTP/1.1" 200 -
+2026-01-19 23:10:09,806:INFO:127.0.0.1 - - [19/Jan/2026 23:10:09] "GET /insert HTTP/1.1" 200 -
+2026-01-19 23:10:14,564:ERROR:Database Error: 1062 (23000): Duplicate entry '1' for key 'user.PRIMARY'
+2026-01-19 23:10:14,564:INFO:127.0.0.1 - - [19/Jan/2026 23:10:14] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 23:10:14,570:INFO:Fetched all users successfully
+2026-01-19 23:10:14,570:INFO:127.0.0.1 - - [19/Jan/2026 23:10:14] "GET / HTTP/1.1" 200 -
+2026-01-19 23:24:56,301:INFO:User table creation checked/created successfully.
+2026-01-19 23:24:56,312:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 23:24:56,312:INFO:[33mPress CTRL+C to quit[0m
+2026-01-19 23:24:57,464:INFO:Fetched all users successfully
+2026-01-19 23:24:57,467:INFO:127.0.0.1 - - [19/Jan/2026 23:24:57] "GET / HTTP/1.1" 200 -
+2026-01-19 23:24:59,673:INFO:127.0.0.1 - - [19/Jan/2026 23:24:59] "GET /insert HTTP/1.1" 200 -
+2026-01-19 23:25:02,495:INFO:User inserted successfully
+2026-01-19 23:25:02,495:INFO:127.0.0.1 - - [19/Jan/2026 23:25:02] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 23:25:02,500:INFO:Fetched all users successfully
+2026-01-19 23:25:02,501:INFO:127.0.0.1 - - [19/Jan/2026 23:25:02] "GET / HTTP/1.1" 200 -
+2026-01-19 23:25:04,172:INFO:127.0.0.1 - - [19/Jan/2026 23:25:04] "GET /insert HTTP/1.1" 200 -
+2026-01-19 23:25:07,254:INFO:User inserted successfully
+2026-01-19 23:25:07,255:INFO:127.0.0.1 - - [19/Jan/2026 23:25:07] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 23:25:07,259:INFO:Fetched all users successfully
+2026-01-19 23:25:07,260:INFO:127.0.0.1 - - [19/Jan/2026 23:25:07] "GET / HTTP/1.1" 200 -
+2026-01-19 23:25:08,151:INFO:127.0.0.1 - - [19/Jan/2026 23:25:08] "GET /insert HTTP/1.1" 200 -
+2026-01-19 23:25:12,387:INFO:User inserted successfully
+2026-01-19 23:25:12,387:INFO:127.0.0.1 - - [19/Jan/2026 23:25:12] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 23:25:12,392:INFO:Fetched all users successfully
+2026-01-19 23:25:12,393:INFO:127.0.0.1 - - [19/Jan/2026 23:25:12] "GET / HTTP/1.1" 200 -
+2026-01-19 23:25:15,760:INFO:127.0.0.1 - - [19/Jan/2026 23:25:15] "GET /update/3 HTTP/1.1" 200 -
+2026-01-19 23:25:19,740:INFO:User updated successfully
+2026-01-19 23:25:19,741:INFO:127.0.0.1 - - [19/Jan/2026 23:25:19] "[32mPOST /update/3 HTTP/1.1[0m" 302 -
+2026-01-19 23:25:19,745:INFO:Fetched all users successfully
+2026-01-19 23:25:19,745:INFO:127.0.0.1 - - [19/Jan/2026 23:25:19] "GET / HTTP/1.1" 200 -
+2026-01-19 23:25:21,351:INFO:127.0.0.1 - - [19/Jan/2026 23:25:21] "GET /update/1 HTTP/1.1" 200 -
+2026-01-19 23:25:25,274:INFO:User updated successfully
+2026-01-19 23:25:25,274:INFO:127.0.0.1 - - [19/Jan/2026 23:25:25] "[32mPOST /update/1 HTTP/1.1[0m" 302 -
+2026-01-19 23:25:25,278:INFO:Fetched all users successfully
+2026-01-19 23:25:25,279:INFO:127.0.0.1 - - [19/Jan/2026 23:25:25] "GET / HTTP/1.1" 200 -
+2026-01-19 23:25:26,960:INFO:User deleted successfully
+2026-01-19 23:25:26,960:INFO:127.0.0.1 - - [19/Jan/2026 23:25:26] "[32mGET /delete/1 HTTP/1.1[0m" 302 -
+2026-01-19 23:25:26,964:INFO:Fetched all users successfully
+2026-01-19 23:25:26,965:INFO:127.0.0.1 - - [19/Jan/2026 23:25:26] "GET / HTTP/1.1" 200 -
+2026-01-19 23:25:28,555:INFO:127.0.0.1 - - [19/Jan/2026 23:25:28] "GET /insert HTTP/1.1" 200 -
+2026-01-19 23:25:32,587:INFO:User inserted successfully
+2026-01-19 23:25:32,588:INFO:127.0.0.1 - - [19/Jan/2026 23:25:32] "[32mPOST /insert HTTP/1.1[0m" 302 -
+2026-01-19 23:25:32,592:INFO:Fetched all users successfully
+2026-01-19 23:25:32,593:INFO:127.0.0.1 - - [19/Jan/2026 23:25:32] "GET / HTTP/1.1" 200 -
+2026-01-19 23:25:35,677:INFO:User deleted successfully
+2026-01-19 23:25:35,677:INFO:127.0.0.1 - - [19/Jan/2026 23:25:35] "[32mGET /delete/2 HTTP/1.1[0m" 302 -
+2026-01-19 23:25:35,681:INFO:Fetched all users successfully
+2026-01-19 23:25:35,682:INFO:127.0.0.1 - - [19/Jan/2026 23:25:35] "GET / HTTP/1.1" 200 -
+2026-01-19 23:25:35,828:INFO:User deleted successfully
+2026-01-19 23:25:35,828:INFO:127.0.0.1 - - [19/Jan/2026 23:25:35] "[32mGET /delete/3 HTTP/1.1[0m" 302 -
+2026-01-19 23:25:35,832:INFO:Fetched all users successfully
+2026-01-19 23:25:35,833:INFO:127.0.0.1 - - [19/Jan/2026 23:25:35] "GET / HTTP/1.1" 200 -
+2026-01-19 23:25:36,877:INFO:User deleted successfully
+2026-01-19 23:25:36,878:INFO:127.0.0.1 - - [19/Jan/2026 23:25:36] "[32mGET /delete/4 HTTP/1.1[0m" 302 -
+2026-01-19 23:25:36,882:INFO:Fetched all users successfully
+2026-01-19 23:25:36,882:INFO:127.0.0.1 - - [19/Jan/2026 23:25:36] "GET / HTTP/1.1" 200 -
+2026-09-15 20:55:07,696:INFO:User table creation checked/created successfully.
+2026-09-15 20:55:07,706:INFO:SwipeSense table creation checked/created successfully.
+2026-09-15 20:55:07,725:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-09-15 20:55:07,726:INFO:[33mPress CTRL+C to quit[0m
+2026-09-16 00:15:45,260:INFO:User table creation checked/created successfully.
+2026-09-16 00:15:45,264:INFO:SwipeSense table creation checked/created successfully.
+2026-09-16 00:15:45,276:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-09-16 00:15:45,276:INFO:[33mPress CTRL+C to quit[0m
+2026-09-16 00:15:55,897:INFO:Fetched all users successfully
+2026-09-16 00:15:55,906:INFO:127.0.0.1 - - [16/Sep/2026 00:15:55] "GET / HTTP/1.1" 200 -
+2026-09-16 00:15:56,136:INFO:127.0.0.1 - - [16/Sep/2026 00:15:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-09-16 00:15:59,592:INFO:127.0.0.1 - - [16/Sep/2026 00:15:59] "GET /query HTTP/1.1" 200 -
+2026-09-16 00:16:03,919:INFO:127.0.0.1 - - [16/Sep/2026 00:16:03] "GET /insert HTTP/1.1" 200 -
+2026-09-16 00:16:07,816:INFO:Fetched all users successfully
+2026-09-16 00:16:07,817:INFO:127.0.0.1 - - [16/Sep/2026 00:16:07] "GET / HTTP/1.1" 200 -
+2026-09-16 00:16:09,333:INFO:Fetched income/revenue by education stats successfully
+2026-09-16 00:16:09,338:INFO:Fetched transaction amount by card category stats successfully
+2026-09-16 00:16:09,342:INFO:Fetched customer count/satisfaction by job stats successfully
+2026-09-16 00:16:09,358:INFO:Fetched top 5 states by revenue successfully
+2026-09-16 00:16:09,364:INFO:127.0.0.1 - - [16/Sep/2026 00:16:09] "GET /stats HTTP/1.1" 200 -
+2026-09-16 00:16:17,997:INFO:Fetched all users successfully
+2026-09-16 00:16:17,997:INFO:127.0.0.1 - - [16/Sep/2026 00:16:17] "GET / HTTP/1.1" 200 -

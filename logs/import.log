@@ -1,0 +1,46 @@
+2026-08-05 23:35:22,352:ERROR:Import Error: [Errno 2] No such file or directory: 'customer.csv'
+2026-08-05 23:37:24,643:ERROR:Import Error: [Errno 2] No such file or directory: 'customer.csv'
+2026-08-07 00:36:33,041:INFO:customer: inserted rows 0 to 500
+2026-08-07 00:36:33,062:INFO:customer: inserted rows 500 to 1000
+2026-08-07 00:36:33,082:INFO:customer: inserted rows 1000 to 1500
+2026-08-07 00:36:33,103:INFO:customer: inserted rows 1500 to 2000
+2026-08-07 00:36:33,124:INFO:customer: inserted rows 2000 to 2500
+2026-08-07 00:36:33,141:INFO:customer: inserted rows 2500 to 3000
+2026-08-07 00:36:33,158:INFO:customer: inserted rows 3000 to 3500
+2026-08-07 00:36:33,174:INFO:customer: inserted rows 3500 to 4000
+2026-08-07 00:36:33,196:INFO:customer: inserted rows 4000 to 4500
+2026-08-07 00:36:33,222:INFO:customer: inserted rows 4500 to 5000
+2026-08-07 00:36:33,252:INFO:customer: inserted rows 5000 to 5500
+2026-08-07 00:36:33,263:INFO:customer: inserted rows 5500 to 6000
+2026-08-07 00:36:33,274:INFO:customer: inserted rows 6000 to 6500
+2026-08-07 00:36:33,284:INFO:customer: inserted rows 6500 to 7000
+2026-08-07 00:36:33,297:INFO:customer: inserted rows 7000 to 7500
+2026-08-07 00:36:33,308:INFO:customer: inserted rows 7500 to 8000
+2026-08-07 00:36:33,318:INFO:customer: inserted rows 8000 to 8500
+2026-08-07 00:36:33,329:INFO:customer: inserted rows 8500 to 9000
+2026-08-07 00:36:33,341:INFO:customer: inserted rows 9000 to 9500
+2026-08-07 00:36:33,354:INFO:customer: inserted rows 9500 to 10000
+2026-08-07 00:36:33,374:INFO:customer: inserted rows 10000 to 10108
+2026-08-07 00:36:33,374:INFO:customer.csv import complete: 10108 rows
+2026-08-07 00:36:33,467:INFO:credit_card: inserted rows 0 to 500
+2026-08-07 00:36:33,489:INFO:credit_card: inserted rows 500 to 1000
+2026-08-07 00:36:33,513:INFO:credit_card: inserted rows 1000 to 1500
+2026-08-07 00:36:33,533:INFO:credit_card: inserted rows 1500 to 2000
+2026-08-07 00:36:33,554:INFO:credit_card: inserted rows 2000 to 2500
+2026-08-07 00:36:33,574:INFO:credit_card: inserted rows 2500 to 3000
+2026-08-07 00:36:33,596:INFO:credit_card: inserted rows 3000 to 3500
+2026-08-07 00:36:33,615:INFO:credit_card: inserted rows 3500 to 4000
+2026-08-07 00:36:33,643:INFO:credit_card: inserted rows 4000 to 4500
+2026-08-07 00:36:33,678:INFO:credit_card: inserted rows 4500 to 5000
+2026-08-07 00:36:33,691:INFO:credit_card: inserted rows 5000 to 5500
+2026-08-07 00:36:33,705:INFO:credit_card: inserted rows 5500 to 6000
+2026-08-07 00:36:33,718:INFO:credit_card: inserted rows 6000 to 6500
+2026-08-07 00:36:33,730:INFO:credit_card: inserted rows 6500 to 7000
+2026-08-07 00:36:33,744:INFO:credit_card: inserted rows 7000 to 7500
+2026-08-07 00:36:33,777:INFO:credit_card: inserted rows 7500 to 8000
+2026-08-07 00:36:33,789:INFO:credit_card: inserted rows 8000 to 8500
+2026-08-07 00:36:33,801:INFO:credit_card: inserted rows 8500 to 9000
+2026-08-07 00:36:33,813:INFO:credit_card: inserted rows 9000 to 9500
+2026-08-07 00:36:33,825:INFO:credit_card: inserted rows 9500 to 10000
+2026-08-07 00:36:33,831:INFO:credit_card: inserted rows 10000 to 10108
+2026-08-07 00:36:33,831:INFO:credit_card.csv import complete: 10108 rows

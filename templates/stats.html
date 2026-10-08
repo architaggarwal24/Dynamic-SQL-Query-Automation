@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SwipeSense Stats</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-br from-indigo-50 to-slate-100 min-h-screen">
+
+<header class="bg-white shadow-md px-10 py-6 flex justify-between items-center">
+  <h1 class="text-2xl font-bold text-gray-800">📊 SwipeSense Stats</h1>
+  <div class="space-x-3">
+    <a href="{{ url_for('stats_export', top_n=top_n) }}"
+       class="bg-white border border-indigo-600 text-indigo-600 hover:bg-indigo-50 px-5 py-2 rounded-xl font-semibold transition">
+      ⬇ Export to CSV
+    </a>
+    <a href="{{ url_for('home') }}"
+       class="bg-white border border-indigo-600 text-indigo-600 hover:bg-indigo-50 px-5 py-2 rounded-xl font-semibold transition">
+      ← Back to Dashboard
+    </a>
+  </div>
+</header>
+
+<main class="p-10 space-y-8">
+
+  {% if error %}
+  <div class="bg-red-100 text-red-700 px-6 py-4 rounded-xl font-medium animate-fade-in">
+    {{ error }} -- showing top 5 instead.
+  </div>
+  {% endif %}
+
+  <!-- Average income and revenue by Education_Level -->
+  <div class="bg-white rounded-2xl shadow-xl overflow-hidden animate-fade-in">
+    <h2 class="px-6 pt-6 text-lg font-bold text-gray-800">Average Income &amp; Revenue by Education Level</h2>
+    <p class="px-6 pb-2 text-sm text-gray-500">Revenue = Interest Earned + Total Trans Amt + Annual Fees, per customer.</p>
+    <table class="w-full text-center mt-2">
+      <thead class="bg-gray-100 text-gray-600 uppercase text-sm">
+        <tr>
+          <th class="p-4">Education Level</th>
+          <th>Customers</th>
+          <th>Avg Income</th>
+          <th>Avg Revenue</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for edu, avg_income, avg_revenue, cust_count in education_stats %}
+        <tr class="border-t hover:bg-indigo-50 transition">
+          <td class="p-4 text-left pl-6">{{ edu }}</td>
+          <td>{{ cust_count }}</td>
+          <td>${{ "{:,.2f}".format(avg_income) if avg_income is not none else '—' }}</td>
+          <td>${{ "{:,.2f}".format(avg_revenue) if avg_revenue is not none else '—' }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Total transaction amount by Card_Category -->
+  <div class="bg-white rounded-2xl shadow-xl overflow-hidden animate-fade-in">
+    <h2 class="px-6 pt-6 text-lg font-bold text-gray-800">Total Transaction Amount by Card Category</h2>
+    <table class="w-full text-center mt-4">
+      <thead class="bg-gray-100 text-gray-600 uppercase text-sm">
+        <tr>
+          <th class="p-4">Card Category</th>
+          <th>Cards</th>
+          <th>Total Trans Amt</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for category, total_amt, card_count in card_category_stats %}
+        <tr class="border-t hover:bg-indigo-50 transition">
+          <td class="p-4 text-left pl-6">{{ category }}</td>
+          <td>{{ card_count }}</td>
+          <td>${{ "{:,.2f}".format(total_amt) if total_amt is not none else '—' }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Customer count and avg satisfaction by Customer_Job -->
+  <div class="bg-white rounded-2xl shadow-xl overflow-hidden animate-fade-in">
+    <h2 class="px-6 pt-6 text-lg font-bold text-gray-800">Customer Count &amp; Avg Satisfaction by Job</h2>
+    <table class="w-full text-center mt-4">
+      <thead class="bg-gray-100 text-gray-600 uppercase text-sm">
+        <tr>
+          <th class="p-4">Customer Job</th>
+          <th>Customer Count</th>
+          <th>Avg Satisfaction Score</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for job, cust_count, avg_score in job_stats %}
+        <tr class="border-t hover:bg-indigo-50 transition">
+          <td class="p-4 text-left pl-6">{{ job }}</td>
+          <td>{{ cust_count }}</td>
+          <td>{{ avg_score if avg_score is not none else '—' }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Revenue by state, top N -->
+  <div class="bg-white rounded-2xl shadow-xl overflow-hidden animate-fade-in">
+    <div class="px-6 pt-6 flex justify-between items-center flex-wrap gap-3">
+      <h2 class="text-lg font-bold text-gray-800">Top {{ top_n }} States by Revenue</h2>
+      <form method="GET" class="flex items-center gap-2">
+        <label for="top_n" class="text-sm text-gray-500">Show top</label>
+        <input type="number" id="top_n" name="top_n" min="1" max="50" value="{{ top_n }}"
+               class="w-20 p-2 rounded-lg border focus:ring-2 focus:ring-indigo-500 text-center">
+        <button type="submit"
+                class="px-4 py-2 rounded-lg bg-indigo-100 text-indigo-700 font-semibold hover:bg-indigo-200 transition">
+          Update
+        </button>
+      </form>
+    </div>
+    <table class="w-full text-center mt-4">
+      <thead class="bg-gray-100 text-gray-600 uppercase text-sm">
+        <tr>
+          <th class="p-4">State</th>
+          <th>Total Revenue</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for state_cd, total_revenue in state_stats %}
+        <tr class="border-t hover:bg-indigo-50 transition">
+          <td class="p-4 text-left pl-6">{{ state_cd }}</td>
+          <td>${{ "{:,.2f}".format(total_revenue) if total_revenue is not none else '—' }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+</main>
+
+<style>
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fade-in 0.5s ease-out;
+}
+</style>
+
+</body>
+</html>
